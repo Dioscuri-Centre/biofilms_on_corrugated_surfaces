@@ -11,9 +11,9 @@ SI_Video_1.mp4 - biofilm growth in selected wells (as in Fig. 1) over the course
 
 SI_Video_2.mp4 - biofilm growth in 4 wells of different type: flat, (T,A)=(10,1.7), (T,A)=(20,5.1), and (T,A)=(50,8.7).
 
-SI_Video_3.mp4 - simulated biofilm in an 80x70 um well, for the same parameters as simulations presented in Fig. 4.
+SI_Video_3.mp4 - simulated biofilm in an 80x70 um well, for the same parameters as simulations presented in Fig. 4.  (raw data in test_80x80_normal)
 
-SI_Video_4.mp4 - simulated biofilm in an 80x30 um well, for the same parameters as SI_Video_3.mp4
+SI_Video_4.mp4 - simulated biofilm in an 80x30 um well, for the same parameters as SI_Video_3.mp4. (raw data in test_80x30)
 
-SI_Video_5.mp4 - simulated biofilm in an 80x30 um well, for the same parameters as SI_Video_3.mp4 with the exception of the friction coefficient being 20x larger.
+SI_Video_5.mp4 - simulated biofilm in an 80x30 um well, for the same parameters as SI_Video_3.mp4 with the exception of the friction coefficient being 20x larger. (raw data in test_80x30_zeta_20x)
 
