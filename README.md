@@ -11,9 +11,9 @@ Supplementary Videos:
 
 [SI_Video_2.mp4](https://drive.google.com/file/d/16Ci4M7xqwNQUY3_ruPsHmT-WE9_3XJOf/view?usp=drive_link) - biofilm growth in 4 wells of different type: flat, (T,A)=(10,1.7), (T,A)=(20,5.1), and (T,A)=(50,8.7), from inoculation (t=0) until t=182 h.
 
-[SI_Video_3.mp4](https://drive.google.com/file/d/1KX1nCh5CoiF1HkDwk8Q6wCPEF_0v-mnF/view?usp=drive_link) - simulated biofilm in an 80x70 um well, for the same parameters as simulations presented in Fig. 4.  (raw data in test_80x80_normal)
+[SI_Video_3.mp4](https://drive.google.com/file/d/1HvDA5ihCHf6GBohLbYQ-m3IseaWurSmb/view?usp=drive_link) - simulated biofilm in an 80x70 um well, for the same parameters as simulations presented in Fig. 4.  (raw data in test_80x80_normal)
 
-[SI_Video_4.mp4](https://drive.google.com/file/d/1ylOUEQl0vByT7E0_XopDCm1RdtkiyEJE/view?usp=drive_link) - simulated biofilm in an 80x30 um well, for the same parameters as SI_Video_3.mp4. (raw data in test_80x30)
+[SI_Video_4.mp4](https://drive.google.com/file/d/1Ubm9To1DWivnUAsXomiZgopGF9U2I8Wb/view?usp=drive_link) - simulated biofilm in an 80x30 um well, for the same parameters as SI_Video_3.mp4. (raw data in test_80x30)
 
-[SI_Video_5.mp4](https://drive.google.com/file/d/1_xnNJGdCdifyoAbASkVVccxAwp9StZ-S/view?usp=drive_link) - simulated biofilm in an 80x30 um well, for the same parameters as SI_Video_3.mp4 with the exception of the friction coefficient being 20x larger. (raw data in test_80x30_zeta_20x)
+[SI_Video_5.mp4](https://drive.google.com/file/d/1G2bwqpoWgxEBNsyiL8_jH27fp4jQ6j4I/view?usp=drive_link) - simulated biofilm in an 80x30 um well, for the same parameters as SI_Video_3.mp4 with the exception of the friction coefficient being 20x larger. (raw data in test_80x30_zeta_20x)
 
