@@ -7,9 +7,9 @@ To create only a single chosen figure, run the corresponding notebook only,. e.g
 
 Supplementary Videos:
 
-[SI_Video_1.mp4](https://drive.google.com/file/d/14iyic3otvFJQu2msvVp4BJx5odrc9IEq/view?usp=drive_link) - biofilm growth in selected wells (as in Fig. 1) over the course of 65 h.
+[SI_Video_1.mp4](https://drive.google.com/file/d/14iyic3otvFJQu2msvVp4BJx5odrc9IEq/view?usp=drive_link) - biofilm growth in selected wells (as in Fig. 1) from inoculation (t=0) until t=144 h.
 
-[SI_Video_2.mp4](https://drive.google.com/file/d/16Ci4M7xqwNQUY3_ruPsHmT-WE9_3XJOf/view?usp=drive_link) - biofilm growth in 4 wells of different type: flat, (T,A)=(10,1.7), (T,A)=(20,5.1), and (T,A)=(50,8.7).
+[SI_Video_2.mp4](https://drive.google.com/file/d/16Ci4M7xqwNQUY3_ruPsHmT-WE9_3XJOf/view?usp=drive_link) - biofilm growth in 4 wells of different type: flat, (T,A)=(10,1.7), (T,A)=(20,5.1), and (T,A)=(50,8.7), from inoculation (t=0) until t=182 h.
 
 [SI_Video_3.mp4](https://drive.google.com/file/d/1KX1nCh5CoiF1HkDwk8Q6wCPEF_0v-mnF/view?usp=drive_link) - simulated biofilm in an 80x70 um well, for the same parameters as simulations presented in Fig. 4.  (raw data in test_80x80_normal)
 
