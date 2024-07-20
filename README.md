@@ -1,7 +1,9 @@
 # biofilms_on_corrugated_surfaces
 This repository contains Jupyter and Mathematica notebooks, Python scripts, and data necessary to recreate all plots from the paper 
 
-"Substrate geometry affects population dynamics in a bacterial biofilm", Witold Postek, Klaudia Staskiewicz, Elin Lilja, and Bartlomiej Waclaw, PUBLICATION DETAILS TO BE INSERTED
+"Substrate geometry affects population dynamics in a bacterial biofilm", Witold Postek, Klaudia Staskiewicz, Elin Lilja, and Bartlomiej Waclaw, 
+PNAS 121 (17), e2315361121 (2024).
+https://www.pnas.org/doi/abs/10.1073/pnas.2315361121
 
 To re-create all figures from the main text and Supplementary Information, (i) download/clone the repository to a local folder, (ii) run all Mathematica and Jupyter notebooks. 
 To create only a single chosen figure, run the corresponding notebook only. It is also possible to generate only a single panel from multi-panel figures by running only the relevant part of the notebook.
